@@ -32,4 +32,5 @@ Download the files to helpm you get started
 
 #### Code Source 
 - Examples used in class during vba module week (for loops, formatting, conditionals, changes in values)
+--Census example, credit card bonus example, star counter example, ins formatter example, lotto example
 - Further reading resources module
